@@ -1,1 +1,1 @@
-# Tableau-Project
+A Tableau dashboard using Airbnb data to analyze revenue and room prices. The project visualizes trends in price distribution per room and per zipcode providing insights into popular locations and revenue generated at a location.
